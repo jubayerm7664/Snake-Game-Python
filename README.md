@@ -12,6 +12,7 @@ A classic Snake game built using **Python** and **Pygame**. Control the snake, e
 - Adjustable game speed via clock tick.
 
 
+
 To run the Snake Game on a Windows machine, ensure you have the following:
 
 1. **Operating System**: Windows 10 or later.
